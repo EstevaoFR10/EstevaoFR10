@@ -111,10 +111,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <div>
  
 <div>
-<details>
 <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Estêvão's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify">
-</details>
 </div>
 
 <div align="center">
@@ -129,15 +126,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 -----
 
-
------
-
 <div>
-<table align="right">
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-</table>
+
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=estevaofr10"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/estevaofr10/estevaofr10?logo=git"/>
 <a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
