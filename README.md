@@ -89,13 +89,13 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <tr>
 <td>
 <!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=estevaofr10&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=estevaofr10&theme=github_dark"/>
+<img alt="GitHub Stats" width="350px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=estevaofr10&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Top Langs" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=estevaofr10&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="350px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=estevaofr10&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Details" width="520px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=estevaofr10&theme=github_dark"/>
+<img alt="GitHub Details" width="620px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=estevaofr10&theme=github_dark"/>
 </td>
 </tr>
 <tr>
