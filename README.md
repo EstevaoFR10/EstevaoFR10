@@ -92,10 +92,10 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img alt="GitHub Stats" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=estevaofr10&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=estevaofr10&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=estevaofr10&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=estevaofr10&theme=github_dark"/>
+<img alt="GitHub Details" width="840px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=estevaofr10&theme=github_dark"/>
 </td>
 </tr>
 <tr>
