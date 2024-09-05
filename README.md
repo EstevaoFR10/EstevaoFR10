@@ -136,6 +136,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img alt="Stars" src="https://img.shields.io/github/stars/estevaofr10?style=social"/>
 </div>
 
------
+<img alt="Footer" src="https://github.com/estevaofr10/estevaofr10/blob/main/img/footer-gray.gif"/>
 
 
