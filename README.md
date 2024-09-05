@@ -137,12 +137,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <tr>
  <td align="center" colspan="1"></td>
 </tr> 
-<tr>
-<td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pythonmg.png?raw=true" width="70px" height="70px"/></a></td>
-</tr>
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
 </table>
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=estevaofr10"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/estevaofr10/estevaofr10?logo=git"/>
